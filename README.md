@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![Kodluyoruz Logo]()
+![Kodluyoruz Logo](pic/Ekran görüntüsü 2023-08-16 140904.png)
 
 
 
